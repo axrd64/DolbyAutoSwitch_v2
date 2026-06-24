@@ -3,6 +3,8 @@
 Automatically enables and disables Dolby Atmos effects on your Lenovo ThinkPad
 based on active audio output. No configuration needed — fully automatic.
 
+You can either build it yourself on your own computer or download the release installer.
+
 **Logic:** Internal speakers → Dolby ON. Any external device (Bluetooth, USB, 3.5mm) → Dolby OFF.
 
 ---
